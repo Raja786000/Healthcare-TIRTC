@@ -1,0 +1,34 @@
+{
+  "records": 5190,
+  "columns": 13,
+  "illness_counts": {
+    "0": 1554,
+    "1": 1638,
+    "2": 946,
+    "3": 542,
+    "4": 274,
+    "5": 236
+  },
+  "gender_counts": {
+    "female": 2702,
+    "male": 2488
+  },
+  "income_min": 0.0,
+  "income_max": 1.5,
+  "income_mean": 0.583159922928709,
+  "missing_values": {
+    "Unnamed: 0": 0,
+    "visits": 0,
+    "gender": 0,
+    "age": 0,
+    "income": 0,
+    "illness": 0,
+    "reduced": 0,
+    "health": 0,
+    "private": 0,
+    "freepoor": 0,
+    "freerepat": 0,
+    "nchronic": 0,
+    "lchronic": 0
+  }
+}
